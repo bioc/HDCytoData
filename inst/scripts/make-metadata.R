@@ -10,7 +10,7 @@ df_base <- data.frame(
   SourceVersion = NA, 
   Coordinate_1_based = TRUE, 
   DataProvider = "", 
-  Maintainer = "Lukas M. Weber <lukmweber@gmail.com>", 
+  Maintainer = "Lukas M. Weber <lmweb012@gmail.com>", 
   DispatchClass = "Rda", 
   stringsAsFactors = FALSE
 )
